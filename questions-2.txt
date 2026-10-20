@@ -1,0 +1,4035 @@
+{
+ "sec": 15,
+ "questions": [
+  {
+   "id": 0,
+   "c": "quran",
+   "d": 1,
+   "q": [
+    "كم عدد آيات سورة الفاتحة؟",
+    "How many verses are in Surah Al-Fatihah?"
+   ],
+   "o": [
+    [
+     "7",
+     "7"
+    ],
+    [
+     "5",
+     "5"
+    ],
+    [
+     "6",
+     "6"
+    ],
+    [
+     "8",
+     "8"
+    ]
+   ],
+   "x": [
+    "سورة الفاتحة سبع آيات، وتُسمّى السبع المثاني.",
+    "Al-Fatihah has seven verses and is also called the Seven Oft-Repeated."
+   ]
+  },
+  {
+   "id": 1,
+   "c": "quran",
+   "d": 1,
+   "q": [
+    "ما أطول سورة في القرآن الكريم؟",
+    "What is the longest surah in the Quran?"
+   ],
+   "o": [
+    [
+     "البقرة",
+     "Al-Baqarah"
+    ],
+    [
+     "آل عمران",
+     "Al-Imran"
+    ],
+    [
+     "النساء",
+     "An-Nisa"
+    ],
+    [
+     "المائدة",
+     "Al-Ma’idah"
+    ]
+   ],
+   "x": [
+    "سورة البقرة أطول سور القرآن، وعدد آياتها 286.",
+    "Al-Baqarah is the longest surah, with 286 verses."
+   ]
+  },
+  {
+   "id": 2,
+   "c": "quran",
+   "d": 1,
+   "q": [
+    "كم عدد سور القرآن الكريم؟",
+    "How many surahs are in the Quran?"
+   ],
+   "o": [
+    [
+     "114",
+     "114"
+    ],
+    [
+     "110",
+     "110"
+    ],
+    [
+     "120",
+     "120"
+    ],
+    [
+     "99",
+     "99"
+    ]
+   ],
+   "x": [
+    "في القرآن الكريم 114 سورة.",
+    "The Quran has 114 surahs."
+   ]
+  },
+  {
+   "id": 3,
+   "c": "seerah",
+   "d": 1,
+   "q": [
+    "في أي عام وُلد النبي ﷺ؟",
+    "In which year was the Prophet ﷺ born?"
+   ],
+   "o": [
+    [
+     "عام الفيل",
+     "Year of the Elephant"
+    ],
+    [
+     "عام الحزن",
+     "Year of Sorrow"
+    ],
+    [
+     "عام الفتح",
+     "Year of the Conquest"
+    ],
+    [
+     "عام الوفود",
+     "Year of Delegations"
+    ]
+   ],
+   "x": [
+    "وُلد النبي ﷺ في مكة المكرمة في عام الفيل.",
+    "The Prophet ﷺ was born in Makkah in the Year of the Elephant."
+   ]
+  },
+  {
+   "id": 4,
+   "c": "seerah",
+   "d": 1,
+   "q": [
+    "ما المكان الذي نزل فيه الوحي أول مرة؟",
+    "Where did revelation first descend?"
+   ],
+   "o": [
+    [
+     "غار حراء",
+     "Cave of Hira"
+    ],
+    [
+     "غار ثور",
+     "Cave of Thawr"
+    ],
+    [
+     "جبل أحد",
+     "Mount Uhud"
+    ],
+    [
+     "جبل عرفات",
+     "Mount Arafat"
+    ]
+   ],
+   "x": [
+    "نزل الوحي أول مرة في غار حراء (صحيح البخاري).",
+    "Revelation first came in the Cave of Hira (Sahih al-Bukhari)."
+   ]
+  },
+  {
+   "id": 5,
+   "c": "seerah",
+   "d": 1,
+   "q": [
+    "إلى أي مدينة هاجر النبي ﷺ؟",
+    "To which city did the Prophet ﷺ migrate?"
+   ],
+   "o": [
+    [
+     "المدينة المنورة",
+     "Madinah"
+    ],
+    [
+     "الطائف",
+     "Taif"
+    ],
+    [
+     "جدة",
+     "Jeddah"
+    ],
+    [
+     "القدس",
+     "Jerusalem"
+    ]
+   ],
+   "x": [
+    "هاجر النبي ﷺ من مكة إلى المدينة المنورة، وكان اسمها يثرب.",
+    "He migrated from Makkah to Madinah, formerly called Yathrib."
+   ]
+  },
+  {
+   "id": 6,
+   "c": "prophets",
+   "d": 1,
+   "q": [
+    "من النبي الذي ابتلعه الحوت؟",
+    "Which prophet was swallowed by the whale?"
+   ],
+   "o": [
+    [
+     "يونس",
+     "Yunus (Jonah)"
+    ],
+    [
+     "موسى",
+     "Musa (Moses)"
+    ],
+    [
+     "عيسى",
+     "Isa (Jesus)"
+    ],
+    [
+     "يوسف",
+     "Yusuf (Joseph)"
+    ]
+   ],
+   "x": [
+    "هو يونس عليه السلام، وقصته في سورتي الصافات والأنبياء.",
+    "Yunus, whose story is in Surahs As-Saffat and Al-Anbiya."
+   ]
+  },
+  {
+   "id": 7,
+   "c": "prophets",
+   "d": 1,
+   "q": [
+    "من النبي الذي صنع السفينة بأمر الله؟",
+    "Which prophet built the ark by Allah’s command?"
+   ],
+   "o": [
+    [
+     "نوح",
+     "Nuh (Noah)"
+    ],
+    [
+     "هود",
+     "Hud"
+    ],
+    [
+     "صالح",
+     "Salih"
+    ],
+    [
+     "إدريس",
+     "Idris"
+    ]
+   ],
+   "x": [
+    "نوح عليه السلام صنع السفينة بأمر الله (سورة هود).",
+    "Nuh built the ark by Allah’s command (Surah Hud)."
+   ]
+  },
+  {
+   "id": 8,
+   "c": "prophets",
+   "d": 1,
+   "q": [
+    "من النبي الذي جعل الله النار عليه بردًا وسلامًا؟",
+    "For which prophet did Allah make the fire cool and safe?"
+   ],
+   "o": [
+    [
+     "إبراهيم",
+     "Ibrahim (Abraham)"
+    ],
+    [
+     "لوط",
+     "Lut (Lot)"
+    ],
+    [
+     "شعيب",
+     "Shu‘ayb"
+    ],
+    [
+     "زكريا",
+     "Zakariya"
+    ]
+   ],
+   "x": [
+    "إبراهيم عليه السلام، كما في سورة الأنبياء.",
+    "Ibrahim, as told in Surah Al-Anbiya."
+   ]
+  },
+  {
+   "id": 9,
+   "c": "fiqh",
+   "d": 1,
+   "q": [
+    "كم عدد الصلوات المفروضة في اليوم والليلة؟",
+    "How many prayers are obligatory each day and night?"
+   ],
+   "o": [
+    [
+     "5",
+     "5"
+    ],
+    [
+     "3",
+     "3"
+    ],
+    [
+     "4",
+     "4"
+    ],
+    [
+     "6",
+     "6"
+    ]
+   ],
+   "x": [
+    "فرض الله على المسلمين خمس صلوات في اليوم والليلة.",
+    "Five daily prayers are obligatory."
+   ]
+  },
+  {
+   "id": 10,
+   "c": "fiqh",
+   "d": 1,
+   "q": [
+    "ما أول أركان الإسلام؟",
+    "What is the first pillar of Islam?"
+   ],
+   "o": [
+    [
+     "الشهادتان",
+     "The two testimonies of faith"
+    ],
+    [
+     "الصلاة",
+     "Prayer"
+    ],
+    [
+     "الزكاة",
+     "Zakat"
+    ],
+    [
+     "الصوم",
+     "Fasting"
+    ]
+   ],
+   "x": [
+    "«بُني الإسلام على خمس: شهادة أن لا إله إلا الله…» (متفق عليه).",
+    "“Islam is built on five: testifying that there is no god but Allah…” (agreed upon)."
+   ]
+  },
+  {
+   "id": 11,
+   "c": "fiqh",
+   "d": 1,
+   "q": [
+    "في أي شهر يصوم المسلمون الصيام الواجب؟",
+    "In which month do Muslims observe the obligatory fast?"
+   ],
+   "o": [
+    [
+     "رمضان",
+     "Ramadan"
+    ],
+    [
+     "شعبان",
+     "Sha‘ban"
+    ],
+    [
+     "ذو الحجة",
+     "Dhul-Hijjah"
+    ],
+    [
+     "محرّم",
+     "Muharram"
+    ]
+   ],
+   "x": [
+    "صيام رمضان فرض على المسلم (سورة البقرة).",
+    "Fasting Ramadan is obligatory (Surah Al-Baqarah)."
+   ]
+  },
+  {
+   "id": 12,
+   "c": "quran",
+   "d": 1,
+   "q": [
+    "في أي سورة وردت آية الكرسي؟",
+    "In which surah does Ayat al-Kursi appear?"
+   ],
+   "o": [
+    [
+     "البقرة",
+     "Al-Baqarah"
+    ],
+    [
+     "آل عمران",
+     "Al-Imran"
+    ],
+    [
+     "الكهف",
+     "Al-Kahf"
+    ],
+    [
+     "يس",
+     "Ya-Sin"
+    ]
+   ],
+   "x": [
+    "آية الكرسي هي الآية 255 من سورة البقرة.",
+    "Ayat al-Kursi is verse 255 of Surah Al-Baqarah."
+   ]
+  },
+  {
+   "id": 13,
+   "c": "quran",
+   "d": 1,
+   "q": [
+    "ما أقصر سورة في القرآن الكريم؟",
+    "What is the shortest surah in the Quran?"
+   ],
+   "o": [
+    [
+     "الكوثر",
+     "Al-Kawthar"
+    ],
+    [
+     "الإخلاص",
+     "Al-Ikhlas"
+    ],
+    [
+     "العصر",
+     "Al-Asr"
+    ],
+    [
+     "النصر",
+     "An-Nasr"
+    ]
+   ],
+   "x": [
+    "سورة الكوثر ثلاث آيات، وهي أقصر سور القرآن.",
+    "Al-Kawthar has three verses and is the shortest surah."
+   ]
+  },
+  {
+   "id": 14,
+   "c": "quran",
+   "d": 1,
+   "q": [
+    "ما السورة التي لا تبدأ بالبسملة؟",
+    "Which surah does not begin with the Basmalah?"
+   ],
+   "o": [
+    [
+     "التوبة",
+     "At-Tawbah"
+    ],
+    [
+     "الأنفال",
+     "Al-Anfal"
+    ],
+    [
+     "يونس",
+     "Yunus"
+    ],
+    [
+     "هود",
+     "Hud"
+    ]
+   ],
+   "x": [
+    "تبدأ سورة التوبة بلا بسملة، وكل سور القرآن الأخرى تبدأ بها.",
+    "At-Tawbah begins without it; every other surah starts with the Basmalah."
+   ]
+  },
+  {
+   "id": 15,
+   "c": "seerah",
+   "d": 1,
+   "q": [
+    "من أول من آمن بالنبي ﷺ من النساء؟",
+    "Who was the first woman to believe in the Prophet ﷺ?"
+   ],
+   "o": [
+    [
+     "خديجة بنت خويلد",
+     "Khadijah bint Khuwaylid"
+    ],
+    [
+     "عائشة",
+     "Aisha"
+    ],
+    [
+     "فاطمة",
+     "Fatimah"
+    ],
+    [
+     "أم سلمة",
+     "Umm Salamah"
+    ]
+   ],
+   "x": [
+    "خديجة رضي الله عنها أول من آمن به وصدّقه.",
+    "Khadijah, may Allah be pleased with her, was the first to believe and support him."
+   ]
+  },
+  {
+   "id": 16,
+   "c": "seerah",
+   "d": 1,
+   "q": [
+    "في أي غزوة كُسرت رباعية النبي ﷺ؟",
+    "In which battle was the Prophet’s ﷺ tooth broken?"
+   ],
+   "o": [
+    [
+     "أحد",
+     "Uhud"
+    ],
+    [
+     "بدر",
+     "Badr"
+    ],
+    [
+     "الخندق",
+     "The Trench"
+    ],
+    [
+     "حنين",
+     "Hunayn"
+    ]
+   ],
+   "x": [
+    "أصيب النبي ﷺ في غزوة أحد (متفق عليه).",
+    "He was wounded at the Battle of Uhud (agreed upon)."
+   ]
+  },
+  {
+   "id": 17,
+   "c": "seerah",
+   "d": 1,
+   "q": [
+    "من صاحب النبي ﷺ في رحلة الهجرة؟",
+    "Who accompanied the Prophet ﷺ on the Hijrah?"
+   ],
+   "o": [
+    [
+     "أبو بكر الصديق",
+     "Abu Bakr as-Siddiq"
+    ],
+    [
+     "عمر بن الخطاب",
+     "Umar ibn al-Khattab"
+    ],
+    [
+     "عثمان بن عفان",
+     "Uthman ibn Affan"
+    ],
+    [
+     "علي بن أبي طالب",
+     "Ali ibn Abi Talib"
+    ]
+   ],
+   "x": [
+    "صحبه أبو بكر الصديق رضي الله عنه، وكانا في غار ثور.",
+    "Abu Bakr accompanied him, and they sheltered in the Cave of Thawr."
+   ]
+  },
+  {
+   "id": 18,
+   "c": "prophets",
+   "d": 1,
+   "q": [
+    "من النبي الذي كلّمه الله تكليمًا؟",
+    "Which prophet did Allah speak to directly?"
+   ],
+   "o": [
+    [
+     "موسى",
+     "Musa (Moses)"
+    ],
+    [
+     "عيسى",
+     "Isa (Jesus)"
+    ],
+    [
+     "نوح",
+     "Nuh (Noah)"
+    ],
+    [
+     "داود",
+     "Dawud (David)"
+    ]
+   ],
+   "x": [
+    "وكلّم الله موسى تكليمًا (سورة النساء).",
+    "Allah spoke directly to Musa (Surah An-Nisa)."
+   ]
+  },
+  {
+   "id": 19,
+   "c": "prophets",
+   "d": 1,
+   "q": [
+    "من النبي الذي أُنزل عليه الزبور؟",
+    "To which prophet was the Zabur given?"
+   ],
+   "o": [
+    [
+     "داود",
+     "Dawud (David)"
+    ],
+    [
+     "سليمان",
+     "Sulayman (Solomon)"
+    ],
+    [
+     "موسى",
+     "Musa (Moses)"
+    ],
+    [
+     "عيسى",
+     "Isa (Jesus)"
+    ]
+   ],
+   "x": [
+    "آتى الله داود الزبور (سورة النساء).",
+    "Allah gave Dawud the Zabur (Surah An-Nisa)."
+   ]
+  },
+  {
+   "id": 20,
+   "c": "prophets",
+   "d": 1,
+   "q": [
+    "من النبي الذي سخّر الله له الريح والجن؟",
+    "For which prophet did Allah subdue the wind and the jinn?"
+   ],
+   "o": [
+    [
+     "سليمان",
+     "Sulayman (Solomon)"
+    ],
+    [
+     "داود",
+     "Dawud (David)"
+    ],
+    [
+     "يوسف",
+     "Yusuf (Joseph)"
+    ],
+    [
+     "أيوب",
+     "Ayyub (Job)"
+    ]
+   ],
+   "x": [
+    "سخّر الله لسليمان الريح والجن (سورتا ص والأنبياء).",
+    "Allah subdued them for Sulayman (Surahs Sad and Al-Anbiya)."
+   ]
+  },
+  {
+   "id": 21,
+   "c": "fiqh",
+   "d": 1,
+   "q": [
+    "كم عدد ركعات صلاة الفجر؟",
+    "How many rak‘ahs is the Fajr prayer?"
+   ],
+   "o": [
+    [
+     "ركعتان",
+     "Two"
+    ],
+    [
+     "ثلاث",
+     "Three"
+    ],
+    [
+     "أربع",
+     "Four"
+    ],
+    [
+     "خمس",
+     "Five"
+    ]
+   ],
+   "x": [
+    "صلاة الفجر ركعتان.",
+    "Fajr is two rak‘ahs."
+   ]
+  },
+  {
+   "id": 22,
+   "c": "fiqh",
+   "d": 1,
+   "q": [
+    "ما مقدار زكاة المال إذا بلغ النصاب وحال عليه الحول؟",
+    "What is the rate of zakat on wealth once it reaches the threshold for a full year?"
+   ],
+   "o": [
+    [
+     "2.5%",
+     "2.5%"
+    ],
+    [
+     "5%",
+     "5%"
+    ],
+    [
+     "10%",
+     "10%"
+    ],
+    [
+     "1%",
+     "1%"
+    ]
+   ],
+   "x": [
+    "مقدارها ربع العشر، أي 2.5%.",
+    "It is one-fortieth, that is 2.5%."
+   ]
+  },
+  {
+   "id": 23,
+   "c": "fiqh",
+   "d": 1,
+   "q": [
+    "في أي شهر يقع الحج الأكبر ويوم عرفة؟",
+    "In which month do the main Hajj rites and the Day of Arafah fall?"
+   ],
+   "o": [
+    [
+     "ذو الحجة",
+     "Dhul-Hijjah"
+    ],
+    [
+     "رمضان",
+     "Ramadan"
+    ],
+    [
+     "شعبان",
+     "Sha‘ban"
+    ],
+    [
+     "صفر",
+     "Safar"
+    ]
+   ],
+   "x": [
+    "يوم عرفة هو التاسع من ذي الحجة.",
+    "The Day of Arafah is the ninth of Dhul-Hijjah."
+   ]
+  },
+  {
+   "id": 24,
+   "c": "quran",
+   "d": 2,
+   "q": [
+    "ما السورة التي جاء في الحديث الصحيح أنها تعدل ثلث القرآن؟",
+    "Which surah is described in an authentic hadith as equal to a third of the Quran?"
+   ],
+   "o": [
+    [
+     "الإخلاص",
+     "Al-Ikhlas"
+    ],
+    [
+     "الفلق",
+     "Al-Falaq"
+    ],
+    [
+     "الناس",
+     "An-Nas"
+    ],
+    [
+     "الكافرون",
+     "Al-Kafirun"
+    ]
+   ],
+   "x": [
+    "«قل هو الله أحد» تعدل ثلث القرآن (صحيح البخاري).",
+    "“Say: He is Allah, the One” equals a third of the Quran (Sahih al-Bukhari)."
+   ]
+  },
+  {
+   "id": 25,
+   "c": "quran",
+   "d": 2,
+   "q": [
+    "كم عدد آيات سورة آل عمران؟",
+    "How many verses does Surah Al-Imran have?"
+   ],
+   "o": [
+    [
+     "200",
+     "200"
+    ],
+    [
+     "176",
+     "176"
+    ],
+    [
+     "286",
+     "286"
+    ],
+    [
+     "120",
+     "120"
+    ]
+   ],
+   "x": [
+    "سورة آل عمران مئتا آية.",
+    "Surah Al-Imran has 200 verses."
+   ]
+  },
+  {
+   "id": 26,
+   "c": "quran",
+   "d": 2,
+   "q": [
+    "في أي سورة وردت قصة ذي القرنين؟",
+    "In which surah is the story of Dhul-Qarnayn told?"
+   ],
+   "o": [
+    [
+     "الكهف",
+     "Al-Kahf"
+    ],
+    [
+     "الإسراء",
+     "Al-Isra"
+    ],
+    [
+     "مريم",
+     "Maryam"
+    ],
+    [
+     "الأنبياء",
+     "Al-Anbiya"
+    ]
+   ],
+   "x": [
+    "وردت قصته في سورة الكهف.",
+    "His story is in Surah Al-Kahf."
+   ]
+  },
+  {
+   "id": 27,
+   "c": "seerah",
+   "d": 2,
+   "q": [
+    "كم دام حصار شعب أبي طالب تقريبًا؟",
+    "Roughly how long did the siege of Shi‘b Abi Talib last?"
+   ],
+   "o": [
+    [
+     "ثلاث سنوات",
+     "Three years"
+    ],
+    [
+     "سنة واحدة",
+     "One year"
+    ],
+    [
+     "خمس سنوات",
+     "Five years"
+    ],
+    [
+     "عشر سنوات",
+     "Ten years"
+    ]
+   ],
+   "x": [
+    "حوصر النبي ﷺ ومن معه في الشعب نحو ثلاث سنوات.",
+    "The Prophet ﷺ and his people were besieged for about three years."
+   ]
+  },
+  {
+   "id": 28,
+   "c": "seerah",
+   "d": 2,
+   "q": [
+    "في أي سنة هجرية وقعت غزوة بدر الكبرى؟",
+    "In which Hijri year did the Battle of Badr take place?"
+   ],
+   "o": [
+    [
+     "السنة الثانية",
+     "Year 2"
+    ],
+    [
+     "السنة الأولى",
+     "Year 1"
+    ],
+    [
+     "السنة الثالثة",
+     "Year 3"
+    ],
+    [
+     "السنة الخامسة",
+     "Year 5"
+    ]
+   ],
+   "x": [
+    "وقعت غزوة بدر في رمضان من السنة الثانية للهجرة.",
+    "Badr took place in Ramadan of the second year after Hijrah."
+   ]
+  },
+  {
+   "id": 29,
+   "c": "seerah",
+   "d": 2,
+   "q": [
+    "من الصحابي الذي بات في فراش النبي ﷺ ليلة الهجرة؟",
+    "Which companion slept in the Prophet’s ﷺ bed on the night of the Hijrah?"
+   ],
+   "o": [
+    [
+     "علي بن أبي طالب",
+     "Ali ibn Abi Talib"
+    ],
+    [
+     "أبو بكر الصديق",
+     "Abu Bakr as-Siddiq"
+    ],
+    [
+     "الزبير بن العوام",
+     "Az-Zubayr ibn al-Awwam"
+    ],
+    [
+     "عمر بن الخطاب",
+     "Umar ibn al-Khattab"
+    ]
+   ],
+   "x": [
+    "بات علي رضي الله عنه في فراشه ليخفي خروجه.",
+    "Ali stayed in his bed to conceal his departure."
+   ]
+  },
+  {
+   "id": 30,
+   "c": "prophets",
+   "d": 2,
+   "q": [
+    "من النبي الذي مكث في قومه ألف سنة إلا خمسين عامًا؟",
+    "Which prophet stayed among his people for a thousand years less fifty?"
+   ],
+   "o": [
+    [
+     "نوح",
+     "Nuh (Noah)"
+    ],
+    [
+     "هود",
+     "Hud"
+    ],
+    [
+     "إبراهيم",
+     "Ibrahim (Abraham)"
+    ],
+    [
+     "يونس",
+     "Yunus (Jonah)"
+    ]
+   ],
+   "x": [
+    "ذكر الله ذلك عن نوح في سورة العنكبوت.",
+    "Allah mentions this about Nuh in Surah Al-Ankabut."
+   ]
+  },
+  {
+   "id": 31,
+   "c": "prophets",
+   "d": 2,
+   "q": [
+    "إلى أي قوم بُعث هود عليه السلام؟",
+    "To which people was Hud sent?"
+   ],
+   "o": [
+    [
+     "عاد",
+     "Ad"
+    ],
+    [
+     "ثمود",
+     "Thamud"
+    ],
+    [
+     "مدين",
+     "Madyan"
+    ],
+    [
+     "سبأ",
+     "Saba"
+    ]
+   ],
+   "x": [
+    "أُرسل هود إلى قوم عاد.",
+    "Hud was sent to the people of Ad."
+   ]
+  },
+  {
+   "id": 32,
+   "c": "prophets",
+   "d": 2,
+   "q": [
+    "إلى أي قوم بُعث شعيب عليه السلام؟",
+    "To which people was Shu‘ayb sent?"
+   ],
+   "o": [
+    [
+     "مدين",
+     "Madyan"
+    ],
+    [
+     "ثمود",
+     "Thamud"
+    ],
+    [
+     "عاد",
+     "Ad"
+    ],
+    [
+     "سبأ",
+     "Saba"
+    ]
+   ],
+   "x": [
+    "أُرسل شعيب إلى أهل مدين.",
+    "Shu‘ayb was sent to the people of Madyan."
+   ]
+  },
+  {
+   "id": 33,
+   "c": "fiqh",
+   "d": 2,
+   "q": [
+    "كم عدد أركان الإيمان؟",
+    "How many pillars of faith (iman) are there?"
+   ],
+   "o": [
+    [
+     "ستة",
+     "Six"
+    ],
+    [
+     "خمسة",
+     "Five"
+    ],
+    [
+     "سبعة",
+     "Seven"
+    ],
+    [
+     "أربعة",
+     "Four"
+    ]
+   ],
+   "x": [
+    "أركان الإيمان ستة كما في حديث جبريل (صحيح مسلم).",
+    "The pillars of iman are six, as in the hadith of Jibril (Sahih Muslim)."
+   ]
+  },
+  {
+   "id": 34,
+   "c": "fiqh",
+   "d": 2,
+   "q": [
+    "ما الصلاة التي لا ركوع فيها ولا سجود؟",
+    "Which prayer has no bowing and no prostration?"
+   ],
+   "o": [
+    [
+     "صلاة الجنازة",
+     "The funeral prayer"
+    ],
+    [
+     "صلاة الكسوف",
+     "The eclipse prayer"
+    ],
+    [
+     "صلاة العيد",
+     "The Eid prayer"
+    ],
+    [
+     "صلاة الاستسقاء",
+     "The rain prayer"
+    ]
+   ],
+   "x": [
+    "صلاة الجنازة تكبيرات وسلام دون ركوع وسجود.",
+    "The funeral prayer consists of takbirs and a salam, without bowing or prostration."
+   ]
+  },
+  {
+   "id": 35,
+   "c": "fiqh",
+   "d": 2,
+   "q": [
+    "كم عدد أشواط الطواف حول الكعبة؟",
+    "How many circuits are made around the Kaaba in tawaf?"
+   ],
+   "o": [
+    [
+     "سبعة",
+     "Seven"
+    ],
+    [
+     "خمسة",
+     "Five"
+    ],
+    [
+     "ثلاثة",
+     "Three"
+    ],
+    [
+     "تسعة",
+     "Nine"
+    ]
+   ],
+   "x": [
+    "الطواف سبعة أشواط.",
+    "Tawaf consists of seven circuits."
+   ]
+  },
+  {
+   "id": 36,
+   "c": "quran",
+   "d": 3,
+   "q": [
+    "كم مرة ورد اسم «محمد» صراحة في القرآن الكريم؟",
+    "How many times does the name “Muhammad” appear explicitly in the Quran?"
+   ],
+   "o": [
+    [
+     "أربع مرات",
+     "Four times"
+    ],
+    [
+     "ثلاث مرات",
+     "Three times"
+    ],
+    [
+     "خمس مرات",
+     "Five times"
+    ],
+    [
+     "سبع مرات",
+     "Seven times"
+    ]
+   ],
+   "x": [
+    "ورد في آل عمران والأحزاب ومحمد والفتح.",
+    "It appears in Al-Imran, Al-Ahzab, Muhammad and Al-Fath."
+   ]
+  },
+  {
+   "id": 37,
+   "c": "quran",
+   "d": 3,
+   "q": [
+    "في أي سورة وردت قصة أصحاب الأخدود؟",
+    "In which surah is the story of the People of the Ditch told?"
+   ],
+   "o": [
+    [
+     "البروج",
+     "Al-Buruj"
+    ],
+    [
+     "الفيل",
+     "Al-Fil"
+    ],
+    [
+     "الكهف",
+     "Al-Kahf"
+    ],
+    [
+     "الفجر",
+     "Al-Fajr"
+    ]
+   ],
+   "x": [
+    "وردت الإشارة إلى قصتهم في سورة البروج.",
+    "Their story is referred to in Surah Al-Buruj."
+   ]
+  },
+  {
+   "id": 38,
+   "c": "quran",
+   "d": 3,
+   "q": [
+    "ما أعظم آية في القرآن كما جاء في الحديث الصحيح؟",
+    "Which verse is the greatest in the Quran according to an authentic hadith?"
+   ],
+   "o": [
+    [
+     "آية الكرسي",
+     "Ayat al-Kursi"
+    ],
+    [
+     "آية النور",
+     "Ayat an-Nur"
+    ],
+    [
+     "آية الدَّين",
+     "The verse of debt"
+    ],
+    [
+     "شهد الله أنه لا إله إلا هو",
+     "“Allah bears witness that there is no god but Him”"
+    ]
+   ],
+   "x": [
+    "أخبر النبي ﷺ أن آية الكرسي أعظم آية في كتاب الله (صحيح مسلم).",
+    "The Prophet ﷺ said Ayat al-Kursi is the greatest verse in Allah’s Book (Sahih Muslim)."
+   ]
+  },
+  {
+   "id": 39,
+   "c": "seerah",
+   "d": 3,
+   "q": [
+    "من الصحابي الذي أشار بحفر الخندق في غزوة الأحزاب؟",
+    "Which companion suggested digging the trench at the Battle of the Confederates?"
+   ],
+   "o": [
+    [
+     "سلمان الفارسي",
+     "Salman al-Farisi"
+    ],
+    [
+     "بلال بن رباح",
+     "Bilal ibn Rabah"
+    ],
+    [
+     "خالد بن الوليد",
+     "Khalid ibn al-Walid"
+    ],
+    [
+     "أبو ذر الغفاري",
+     "Abu Dharr al-Ghifari"
+    ]
+   ],
+   "x": [
+    "أشار سلمان الفارسي رضي الله عنه بحفر الخندق.",
+    "Salman al-Farisi suggested digging the trench."
+   ]
+  },
+  {
+   "id": 40,
+   "c": "seerah",
+   "d": 3,
+   "q": [
+    "في أي سنة هجرية كان صلح الحديبية؟",
+    "In which Hijri year was the Treaty of Hudaybiyyah?"
+   ],
+   "o": [
+    [
+     "السنة السادسة",
+     "Year 6"
+    ],
+    [
+     "السنة الرابعة",
+     "Year 4"
+    ],
+    [
+     "السنة الثامنة",
+     "Year 8"
+    ],
+    [
+     "السنة الثانية",
+     "Year 2"
+    ]
+   ],
+   "x": [
+    "كان صلح الحديبية في ذي القعدة من السنة السادسة.",
+    "It took place in Dhul-Qa’dah of year 6."
+   ]
+  },
+  {
+   "id": 41,
+   "c": "seerah",
+   "d": 3,
+   "q": [
+    "كم كان عمر النبي ﷺ عند نزول الوحي عليه؟",
+    "How old was the Prophet ﷺ when revelation first came to him?"
+   ],
+   "o": [
+    [
+     "أربعون سنة",
+     "Forty"
+    ],
+    [
+     "خمس وثلاثون سنة",
+     "Thirty-five"
+    ],
+    [
+     "خمس وعشرون سنة",
+     "Twenty-five"
+    ],
+    [
+     "ستون سنة",
+     "Sixty"
+    ]
+   ],
+   "x": [
+    "نزل عليه الوحي وهو في الأربعين من عمره.",
+    "Revelation came to him at the age of forty."
+   ]
+  },
+  {
+   "id": 42,
+   "c": "prophets",
+   "d": 3,
+   "q": [
+    "من النبي الذي كان نجارًا كما جاء في الحديث الصحيح؟",
+    "Which prophet was a carpenter according to an authentic hadith?"
+   ],
+   "o": [
+    [
+     "زكريا",
+     "Zakariyya (Zechariah)"
+    ],
+    [
+     "داود",
+     "Dawud (David)"
+    ],
+    [
+     "يحيى",
+     "Yahya (John)"
+    ],
+    [
+     "إدريس",
+     "Idris (Enoch)"
+    ]
+   ],
+   "x": [
+    "«كان زكريا نجارًا» (صحيح مسلم).",
+    "“Zakariyya was a carpenter” (Sahih Muslim)."
+   ]
+  },
+  {
+   "id": 43,
+   "c": "prophets",
+   "d": 3,
+   "q": [
+    "كم عدد أولي العزم من الرسل على القول المشهور؟",
+    "How many are the Messengers of Firm Resolve, by the well-known view?"
+   ],
+   "o": [
+    [
+     "خمسة",
+     "Five"
+    ],
+    [
+     "ثلاثة",
+     "Three"
+    ],
+    [
+     "أربعة",
+     "Four"
+    ],
+    [
+     "سبعة",
+     "Seven"
+    ]
+   ],
+   "x": [
+    "هم نوح وإبراهيم وموسى وعيسى ومحمد عليهم الصلاة والسلام.",
+    "They are Nuh, Ibrahim, Musa, Isa and Muhammad, peace be upon them."
+   ]
+  },
+  {
+   "id": 44,
+   "c": "prophets",
+   "d": 3,
+   "q": [
+    "ما المعجزة التي أرسلها الله مع نبيه صالح؟",
+    "What sign did Allah send with His prophet Salih?"
+   ],
+   "o": [
+    [
+     "الناقة",
+     "The she-camel"
+    ],
+    [
+     "العصا",
+     "The staff"
+    ],
+    [
+     "الريح",
+     "The wind"
+    ],
+    [
+     "الطوفان",
+     "The flood"
+    ]
+   ],
+   "x": [
+    "كانت معجزته ناقة الله (سورة الأعراف).",
+    "His sign was Allah’s she-camel (Surah Al-A‘raf)."
+   ]
+  },
+  {
+   "id": 45,
+   "c": "fiqh",
+   "d": 3,
+   "q": [
+    "ما أول ما يُحاسب عليه العبد من عمله يوم القيامة؟",
+    "What is the first deed a servant will be reckoned for on the Day of Judgment?"
+   ],
+   "o": [
+    [
+     "الصلاة",
+     "Prayer"
+    ],
+    [
+     "الزكاة",
+     "Zakat"
+    ],
+    [
+     "الصيام",
+     "Fasting"
+    ],
+    [
+     "الحج",
+     "Hajj"
+    ]
+   ],
+   "x": [
+    "«أول ما يُحاسب به العبد يوم القيامة صلاته» (رواه أصحاب السنن).",
+    "“The first thing a servant is reckoned for is his prayer” (reported in the Sunan)."
+   ]
+  },
+  {
+   "id": 46,
+   "c": "fiqh",
+   "d": 3,
+   "q": [
+    "كم عدد ركعات السنن الرواتب المؤكدة في اليوم والليلة؟",
+    "How many rak‘ahs of the confirmed regular sunnah prayers are there each day and night?"
+   ],
+   "o": [
+    [
+     "12",
+     "12"
+    ],
+    [
+     "10",
+     "10"
+    ],
+    [
+     "8",
+     "8"
+    ],
+    [
+     "14",
+     "14"
+    ]
+   ],
+   "x": [
+    "جاء في صحيح مسلم فضل من صلى ثنتي عشرة ركعة في اليوم والليلة.",
+    "Sahih Muslim mentions the reward for praying twelve rak‘ahs each day and night."
+   ]
+  },
+  {
+   "id": 47,
+   "c": "fiqh",
+   "d": 3,
+   "q": [
+    "ما الركن الأعظم في الحج كما قال النبي ﷺ: «الحج عرفة»؟",
+    "Which is the greatest rite of Hajj, as the Prophet ﷺ said: “Hajj is Arafah”?"
+   ],
+   "o": [
+    [
+     "الوقوف بعرفة",
+     "Standing at Arafah"
+    ],
+    [
+     "رمي الجمرات",
+     "Stoning the pillars"
+    ],
+    [
+     "المبيت بمنى",
+     "Staying at Mina"
+    ],
+    [
+     "طواف الوداع",
+     "The farewell tawaf"
+    ]
+   ],
+   "x": [
+    "«الحج عرفة» (رواه أصحاب السنن).",
+    "“Hajj is Arafah” (reported in the Sunan)."
+   ]
+  },
+  {
+   "id": 48,
+   "c": "quran",
+   "d": 2,
+   "q": [
+    "ما السورة التي تُسمّى «أم الكتاب»؟",
+    "Which surah is called “the Mother of the Book”?"
+   ],
+   "o": [
+    [
+     "الفاتحة",
+     "Al-Fatihah"
+    ],
+    [
+     "البقرة",
+     "Al-Baqarah"
+    ],
+    [
+     "الإخلاص",
+     "Al-Ikhlas"
+    ],
+    [
+     "يس",
+     "Ya-Sin"
+    ]
+   ],
+   "x": [
+    "تُسمّى الفاتحة أم الكتاب والسبع المثاني.",
+    "Al-Fatihah is called the Mother of the Book and the Seven Oft-Repeated."
+   ]
+  },
+  {
+   "id": 49,
+   "c": "quran",
+   "d": 2,
+   "q": [
+    "كم عدد آيات سورة الإخلاص؟",
+    "How many verses does Surah Al-Ikhlas have?"
+   ],
+   "o": [
+    [
+     "4",
+     "4"
+    ],
+    [
+     "3",
+     "3"
+    ],
+    [
+     "5",
+     "5"
+    ],
+    [
+     "6",
+     "6"
+    ]
+   ],
+   "x": [
+    "سورة الإخلاص أربع آيات.",
+    "Surah Al-Ikhlas has four verses."
+   ]
+  },
+  {
+   "id": 50,
+   "c": "quran",
+   "d": 2,
+   "q": [
+    "ما السورة التي تبدأ بقوله تعالى «يا أيها المدثر»؟",
+    "Which surah begins with “O you who are covered”?"
+   ],
+   "o": [
+    [
+     "المدثر",
+     "Al-Muddaththir"
+    ],
+    [
+     "المزمل",
+     "Al-Muzzammil"
+    ],
+    [
+     "القلم",
+     "Al-Qalam"
+    ],
+    [
+     "العلق",
+     "Al-Alaq"
+    ]
+   ],
+   "x": [
+    "تبدأ سورة المدثر بهذه الآية.",
+    "Surah Al-Muddaththir begins with this verse."
+   ]
+  },
+  {
+   "id": 51,
+   "c": "quran",
+   "d": 2,
+   "q": [
+    "ما السورة التي سُميت باسم النبي ﷺ؟",
+    "Which surah is named after the Prophet ﷺ?"
+   ],
+   "o": [
+    [
+     "محمد",
+     "Muhammad"
+    ],
+    [
+     "الفتح",
+     "Al-Fath"
+    ],
+    [
+     "الأحزاب",
+     "Al-Ahzab"
+    ],
+    [
+     "الحجرات",
+     "Al-Hujurat"
+    ]
+   ],
+   "x": [
+    "سورة محمد هي السورة السابعة والأربعون.",
+    "Surah Muhammad is the 47th surah."
+   ]
+  },
+  {
+   "id": 52,
+   "c": "quran",
+   "d": 3,
+   "q": [
+    "ما السورة التي تبدأ بقوله تعالى «الحمد لله الذي أنزل على عبده الكتاب»؟",
+    "Which surah begins with “Praise be to Allah, who sent down the Book to His servant”?"
+   ],
+   "o": [
+    [
+     "الكهف",
+     "Al-Kahf"
+    ],
+    [
+     "الأنعام",
+     "Al-An‘am"
+    ],
+    [
+     "سبأ",
+     "Saba"
+    ],
+    [
+     "فاطر",
+     "Fatir"
+    ]
+   ],
+   "x": [
+    "خمس سور تبدأ بالحمد لله، وهذه الآية أول سورة الكهف.",
+    "Five surahs begin with “Praise be to Allah”; this verse opens Al-Kahf."
+   ]
+  },
+  {
+   "id": 53,
+   "c": "quran",
+   "d": 3,
+   "q": [
+    "كم عدد آيات سورة النساء؟",
+    "How many verses does Surah An-Nisa have?"
+   ],
+   "o": [
+    [
+     "176",
+     "176"
+    ],
+    [
+     "200",
+     "200"
+    ],
+    [
+     "286",
+     "286"
+    ],
+    [
+     "120",
+     "120"
+    ]
+   ],
+   "x": [
+    "سورة النساء مئة وست وسبعون آية.",
+    "An-Nisa has 176 verses."
+   ]
+  },
+  {
+   "id": 54,
+   "c": "quran",
+   "d": 3,
+   "q": [
+    "في أي سورة ورد اسم «أحمد» صراحة؟",
+    "In which surah does the name “Ahmad” appear explicitly?"
+   ],
+   "o": [
+    [
+     "الصف",
+     "As-Saff"
+    ],
+    [
+     "الفتح",
+     "Al-Fath"
+    ],
+    [
+     "محمد",
+     "Muhammad"
+    ],
+    [
+     "الجمعة",
+     "Al-Jumu‘ah"
+    ]
+   ],
+   "x": [
+    "ورد في سورة الصف على لسان عيسى عليه السلام.",
+    "It appears in Surah As-Saff, on the tongue of Isa."
+   ]
+  },
+  {
+   "id": 55,
+   "c": "quran",
+   "d": 3,
+   "q": [
+    "ما أطول آية في القرآن الكريم؟",
+    "What is the longest verse in the Quran?"
+   ],
+   "o": [
+    [
+     "آية الدَّين",
+     "The verse of debt"
+    ],
+    [
+     "آية الكرسي",
+     "Ayat al-Kursi"
+    ],
+    [
+     "آية النور",
+     "Ayat an-Nur"
+    ],
+    [
+     "آية الوضوء",
+     "The verse of ablution"
+    ]
+   ],
+   "x": [
+    "أطول آية هي آية الدَّين، وهي الآية 282 من سورة البقرة.",
+    "The longest is the verse of debt, 2:282."
+   ]
+  },
+  {
+   "id": 56,
+   "c": "seerah",
+   "d": 2,
+   "q": [
+    "من هي مرضعة النبي ﷺ؟",
+    "Who was the Prophet’s ﷺ wet nurse?"
+   ],
+   "o": [
+    [
+     "حليمة السعدية",
+     "Halimah as-Sa‘diyyah"
+    ],
+    [
+     "آمنة بنت وهب",
+     "Aminah bint Wahb"
+    ],
+    [
+     "فاطمة بنت أسد",
+     "Fatimah bint Asad"
+    ],
+    [
+     "أم أيمن",
+     "Umm Ayman"
+    ]
+   ],
+   "x": [
+    "أرضعته حليمة السعدية في بني سعد.",
+    "Halimah as-Sa‘diyyah nursed him among Banu Sa‘d."
+   ]
+  },
+  {
+   "id": 57,
+   "c": "seerah",
+   "d": 2,
+   "q": [
+    "إلى أي مسجد أُسري بالنبي ﷺ؟",
+    "To which mosque was the Prophet ﷺ taken on the Night Journey?"
+   ],
+   "o": [
+    [
+     "المسجد الأقصى",
+     "Al-Aqsa Mosque"
+    ],
+    [
+     "مسجد قباء",
+     "Quba Mosque"
+    ],
+    [
+     "المسجد النبوي",
+     "The Prophet’s Mosque"
+    ],
+    [
+     "مسجد الخيف",
+     "Masjid al-Khayf"
+    ]
+   ],
+   "x": [
+    "أُسري به من المسجد الحرام إلى المسجد الأقصى (سورة الإسراء).",
+    "He was taken from Al-Masjid al-Haram to Al-Aqsa (Surah Al-Isra)."
+   ]
+  },
+  {
+   "id": 58,
+   "c": "seerah",
+   "d": 2,
+   "q": [
+    "أين بُني أول مسجد في الإسلام؟",
+    "Where was the first mosque in Islam built?"
+   ],
+   "o": [
+    [
+     "قباء",
+     "Quba"
+    ],
+    [
+     "الطائف",
+     "Taif"
+    ],
+    [
+     "خيبر",
+     "Khaybar"
+    ],
+    [
+     "بدر",
+     "Badr"
+    ]
+   ],
+   "x": [
+    "أسّس النبي ﷺ مسجد قباء عند وصوله إلى المدينة.",
+    "The Prophet ﷺ founded Quba Mosque when he arrived near Madinah."
+   ]
+  },
+  {
+   "id": 59,
+   "c": "seerah",
+   "d": 2,
+   "q": [
+    "من عمّ النبي ﷺ الذي لُقّب بأسد الله؟",
+    "Which uncle of the Prophet ﷺ was called the Lion of Allah?"
+   ],
+   "o": [
+    [
+     "حمزة بن عبد المطلب",
+     "Hamzah ibn Abd al-Muttalib"
+    ],
+    [
+     "العباس بن عبد المطلب",
+     "Al-Abbas ibn Abd al-Muttalib"
+    ],
+    [
+     "أبو طالب",
+     "Abu Talib"
+    ],
+    [
+     "أبو لهب",
+     "Abu Lahab"
+    ]
+   ],
+   "x": [
+    "استُشهد حمزة رضي الله عنه في غزوة أحد.",
+    "Hamzah was martyred at the Battle of Uhud."
+   ]
+  },
+  {
+   "id": 60,
+   "c": "seerah",
+   "d": 3,
+   "q": [
+    "في أي سنة هجرية فُتحت مكة؟",
+    "In which Hijri year was Makkah conquered?"
+   ],
+   "o": [
+    [
+     "السنة الثامنة",
+     "Year 8"
+    ],
+    [
+     "السنة السادسة",
+     "Year 6"
+    ],
+    [
+     "السنة العاشرة",
+     "Year 10"
+    ],
+    [
+     "السنة الرابعة",
+     "Year 4"
+    ]
+   ],
+   "x": [
+    "كان فتح مكة في رمضان من السنة الثامنة للهجرة.",
+    "Makkah was conquered in Ramadan of year 8 after Hijrah."
+   ]
+  },
+  {
+   "id": 61,
+   "c": "seerah",
+   "d": 3,
+   "q": [
+    "في أي مكان قال النبي ﷺ لصاحبه «لا تحزن إن الله معنا»؟",
+    "Where did the Prophet ﷺ say to his companion “Do not grieve; Allah is with us”?"
+   ],
+   "o": [
+    [
+     "غار ثور",
+     "Cave of Thawr"
+    ],
+    [
+     "غار حراء",
+     "Cave of Hira"
+    ],
+    [
+     "بدر",
+     "Badr"
+    ],
+    [
+     "أحد",
+     "Uhud"
+    ]
+   ],
+   "x": [
+    "قالها في غار ثور أثناء الهجرة (سورة التوبة).",
+    "He said it in the Cave of Thawr during the Hijrah (Surah At-Tawbah)."
+   ]
+  },
+  {
+   "id": 62,
+   "c": "seerah",
+   "d": 3,
+   "q": [
+    "من أول مؤذن في الإسلام؟",
+    "Who was the first muezzin in Islam?"
+   ],
+   "o": [
+    [
+     "بلال بن رباح",
+     "Bilal ibn Rabah"
+    ],
+    [
+     "عبد الله بن زيد",
+     "Abdullah ibn Zayd"
+    ],
+    [
+     "أبو محذورة",
+     "Abu Mahdhurah"
+    ],
+    [
+     "عمر بن الخطاب",
+     "Umar ibn al-Khattab"
+    ]
+   ],
+   "x": [
+    "كان بلال رضي الله عنه أول من أذّن للصلاة.",
+    "Bilal was the first to call the adhan."
+   ]
+  },
+  {
+   "id": 63,
+   "c": "seerah",
+   "d": 3,
+   "q": [
+    "من الصحابي الملقّب بسيف الله؟",
+    "Which companion was known as the Sword of Allah?"
+   ],
+   "o": [
+    [
+     "خالد بن الوليد",
+     "Khalid ibn al-Walid"
+    ],
+    [
+     "عمرو بن العاص",
+     "Amr ibn al-As"
+    ],
+    [
+     "سعد بن أبي وقاص",
+     "Sa‘d ibn Abi Waqqas"
+    ],
+    [
+     "أبو عبيدة بن الجراح",
+     "Abu Ubaydah ibn al-Jarrah"
+    ]
+   ],
+   "x": [
+    "وصفه النبي ﷺ بأنه سيف من سيوف الله (صحيح البخاري).",
+    "The Prophet ﷺ described him as a sword of Allah (Sahih al-Bukhari)."
+   ]
+  },
+  {
+   "id": 64,
+   "c": "prophets",
+   "d": 2,
+   "q": [
+    "من النبي الذي أُلقي في الجب ثم صار عزيز مصر؟",
+    "Which prophet was cast into the well and later became the minister of Egypt?"
+   ],
+   "o": [
+    [
+     "يوسف",
+     "Yusuf (Joseph)"
+    ],
+    [
+     "يعقوب",
+     "Ya‘qub (Jacob)"
+    ],
+    [
+     "إسحاق",
+     "Ishaq (Isaac)"
+    ],
+    [
+     "إسماعيل",
+     "Ismail (Ishmael)"
+    ]
+   ],
+   "x": [
+    "قصته عليه السلام في سورة يوسف.",
+    "His story is told in Surah Yusuf."
+   ]
+  },
+  {
+   "id": 65,
+   "c": "prophets",
+   "d": 2,
+   "q": [
+    "من النبي الذي اشتهر بالصبر على المرض؟",
+    "Which prophet is known for his patience in illness?"
+   ],
+   "o": [
+    [
+     "أيوب",
+     "Ayyub (Job)"
+    ],
+    [
+     "يونس",
+     "Yunus (Jonah)"
+    ],
+    [
+     "يعقوب",
+     "Ya‘qub (Jacob)"
+    ],
+    [
+     "زكريا",
+     "Zakariyya (Zechariah)"
+    ]
+   ],
+   "x": [
+    "ذُكر صبر أيوب في سورتي الأنبياء وص.",
+    "His patience is mentioned in Surahs Al-Anbiya and Sad."
+   ]
+  },
+  {
+   "id": 66,
+   "c": "prophets",
+   "d": 2,
+   "q": [
+    "من يُلقّب بأبي الأنبياء؟",
+    "Who is called the Father of the Prophets?"
+   ],
+   "o": [
+    [
+     "إبراهيم",
+     "Ibrahim (Abraham)"
+    ],
+    [
+     "نوح",
+     "Nuh (Noah)"
+    ],
+    [
+     "آدم",
+     "Adam"
+    ],
+    [
+     "موسى",
+     "Musa (Moses)"
+    ]
+   ],
+   "x": [
+    "يُلقّب إبراهيم عليه السلام بأبي الأنبياء.",
+    "Ibrahim is known as the Father of the Prophets."
+   ]
+  },
+  {
+   "id": 67,
+   "c": "prophets",
+   "d": 2,
+   "q": [
+    "من أول الأنبياء؟",
+    "Who was the first prophet?"
+   ],
+   "o": [
+    [
+     "آدم",
+     "Adam"
+    ],
+    [
+     "نوح",
+     "Nuh (Noah)"
+    ],
+    [
+     "إدريس",
+     "Idris (Enoch)"
+    ],
+    [
+     "إبراهيم",
+     "Ibrahim (Abraham)"
+    ]
+   ],
+   "x": [
+    "آدم عليه السلام أول البشر وأول الأنبياء.",
+    "Adam was the first human and the first prophet."
+   ]
+  },
+  {
+   "id": 68,
+   "c": "prophets",
+   "d": 3,
+   "q": [
+    "من النبي الذي قتل جالوت؟",
+    "Which prophet killed Goliath?"
+   ],
+   "o": [
+    [
+     "داود",
+     "Dawud (David)"
+    ],
+    [
+     "سليمان",
+     "Sulayman (Solomon)"
+    ],
+    [
+     "موسى",
+     "Musa (Moses)"
+    ],
+    [
+     "يوشع",
+     "Yusha‘ (Joshua)"
+    ]
+   ],
+   "x": [
+    "قتل داود جالوت كما في سورة البقرة.",
+    "Dawud killed Goliath, as in Surah Al-Baqarah."
+   ]
+  },
+  {
+   "id": 69,
+   "c": "prophets",
+   "d": 3,
+   "q": [
+    "من النبي الذي ابيضّت عيناه من الحزن على ابنه؟",
+    "Which prophet’s eyes turned white from grief over his son?"
+   ],
+   "o": [
+    [
+     "يعقوب",
+     "Ya‘qub (Jacob)"
+    ],
+    [
+     "إبراهيم",
+     "Ibrahim (Abraham)"
+    ],
+    [
+     "زكريا",
+     "Zakariyya (Zechariah)"
+    ],
+    [
+     "أيوب",
+     "Ayyub (Job)"
+    ]
+   ],
+   "x": [
+    "ابيضّت عينا يعقوب حزنًا على يوسف (سورة يوسف).",
+    "Ya‘qub’s eyes turned white from grief over Yusuf (Surah Yusuf)."
+   ]
+  },
+  {
+   "id": 70,
+   "c": "prophets",
+   "d": 3,
+   "q": [
+    "ما اسم والد إبراهيم عليه السلام في القرآن؟",
+    "What is the name of Ibrahim’s father in the Quran?"
+   ],
+   "o": [
+    [
+     "آزر",
+     "Azar"
+    ],
+    [
+     "تارح",
+     "Tarih"
+    ],
+    [
+     "لقمان",
+     "Luqman"
+    ],
+    [
+     "عمران",
+     "Imran"
+    ]
+   ],
+   "x": [
+    "ورد اسمه آزر في سورة الأنعام.",
+    "He is named Azar in Surah Al-An‘am."
+   ]
+  },
+  {
+   "id": 71,
+   "c": "prophets",
+   "d": 3,
+   "q": [
+    "ما المرأة الوحيدة التي ذُكر اسمها صراحة في القرآن؟",
+    "Which is the only woman named explicitly in the Quran?"
+   ],
+   "o": [
+    [
+     "مريم",
+     "Maryam (Mary)"
+    ],
+    [
+     "آسية",
+     "Asiyah"
+    ],
+    [
+     "هاجر",
+     "Hajar"
+    ],
+    [
+     "سارة",
+     "Sarah"
+    ]
+   ],
+   "x": [
+    "ذُكرت مريم باسمها في القرآن، وسُمّيت سورة باسمها.",
+    "Maryam is named in the Quran and a surah is named after her."
+   ]
+  },
+  {
+   "id": 72,
+   "c": "fiqh",
+   "d": 2,
+   "q": [
+    "كم عدد ركعات صلاة العشاء؟",
+    "How many rak‘ahs is the Isha prayer?"
+   ],
+   "o": [
+    [
+     "4",
+     "4"
+    ],
+    [
+     "3",
+     "3"
+    ],
+    [
+     "2",
+     "2"
+    ],
+    [
+     "5",
+     "5"
+    ]
+   ],
+   "x": [
+    "صلاة العشاء أربع ركعات.",
+    "Isha is four rak‘ahs."
+   ]
+  },
+  {
+   "id": 73,
+   "c": "fiqh",
+   "d": 2,
+   "q": [
+    "كم عدد ركعات صلاة المغرب؟",
+    "How many rak‘ahs is the Maghrib prayer?"
+   ],
+   "o": [
+    [
+     "3",
+     "3"
+    ],
+    [
+     "2",
+     "2"
+    ],
+    [
+     "4",
+     "4"
+    ],
+    [
+     "5",
+     "5"
+    ]
+   ],
+   "x": [
+    "صلاة المغرب ثلاث ركعات.",
+    "Maghrib is three rak‘ahs."
+   ]
+  },
+  {
+   "id": 74,
+   "c": "fiqh",
+   "d": 2,
+   "q": [
+    "كم ركعة في صلاة الجمعة؟",
+    "How many rak‘ahs is the Friday prayer?"
+   ],
+   "o": [
+    [
+     "ركعتان",
+     "Two"
+    ],
+    [
+     "أربع ركعات",
+     "Four"
+    ],
+    [
+     "ثلاث ركعات",
+     "Three"
+    ],
+    [
+     "ست ركعات",
+     "Six"
+    ]
+   ],
+   "x": [
+    "صلاة الجمعة ركعتان.",
+    "The Friday prayer is two rak‘ahs."
+   ]
+  },
+  {
+   "id": 75,
+   "c": "fiqh",
+   "d": 2,
+   "q": [
+    "ماذا تُسمّى العمرة أيضًا؟",
+    "What is Umrah also called?"
+   ],
+   "o": [
+    [
+     "الحج الأصغر",
+     "The lesser pilgrimage"
+    ],
+    [
+     "الحج الأكبر",
+     "The greater pilgrimage"
+    ],
+    [
+     "طواف الوداع",
+     "The farewell tawaf"
+    ],
+    [
+     "السعي",
+     "The sa‘i"
+    ]
+   ],
+   "x": [
+    "تُسمّى العمرة الحج الأصغر.",
+    "Umrah is called the lesser pilgrimage."
+   ]
+  },
+  {
+   "id": 76,
+   "c": "fiqh",
+   "d": 3,
+   "q": [
+    "كم عدد التكبيرات في صلاة الجنازة؟",
+    "How many takbirs are there in the funeral prayer?"
+   ],
+   "o": [
+    [
+     "4",
+     "4"
+    ],
+    [
+     "3",
+     "3"
+    ],
+    [
+     "5",
+     "5"
+    ],
+    [
+     "2",
+     "2"
+    ]
+   ],
+   "x": [
+    "يُكبّر المصلي أربع تكبيرات.",
+    "The worshipper says four takbirs."
+   ]
+  },
+  {
+   "id": 77,
+   "c": "fiqh",
+   "d": 3,
+   "q": [
+    "ما فضل صيام يوم عرفة لغير الحاج؟",
+    "What is the reward of fasting the Day of Arafah for one who is not on Hajj?"
+   ],
+   "o": [
+    [
+     "تكفير ذنوب سنتين",
+     "Expiates the sins of two years"
+    ],
+    [
+     "تكفير ذنوب شهر",
+     "Expiates the sins of a month"
+    ],
+    [
+     "تكفير ذنوب يوم",
+     "Expiates the sins of a day"
+    ],
+    [
+     "مضاعفة الأجر ألف مرة",
+     "Reward multiplied a thousandfold"
+    ]
+   ],
+   "x": [
+    "يكفّر السنة الماضية والباقية (صحيح مسلم).",
+    "It expiates the previous and the coming year (Sahih Muslim)."
+   ]
+  },
+  {
+   "id": 78,
+   "c": "fiqh",
+   "d": 3,
+   "q": [
+    "كم حصاة تُرمى في جمرة العقبة يوم النحر؟",
+    "How many pebbles are thrown at Jamrat al-Aqabah on the Day of Sacrifice?"
+   ],
+   "o": [
+    [
+     "7",
+     "7"
+    ],
+    [
+     "3",
+     "3"
+    ],
+    [
+     "21",
+     "21"
+    ],
+    [
+     "5",
+     "5"
+    ]
+   ],
+   "x": [
+    "يرمي الحاج سبع حصيات في جمرة العقبة.",
+    "The pilgrim throws seven pebbles at Jamrat al-Aqabah."
+   ]
+  },
+  {
+   "id": 79,
+   "c": "fiqh",
+   "d": 3,
+   "q": [
+    "ما أقل نصاب الغنم في الزكاة؟",
+    "What is the minimum nisab of sheep for zakat?"
+   ],
+   "o": [
+    [
+     "40",
+     "40"
+    ],
+    [
+     "20",
+     "20"
+    ],
+    [
+     "30",
+     "30"
+    ],
+    [
+     "50",
+     "50"
+    ]
+   ],
+   "x": [
+    "أقل نصاب الغنم أربعون شاة، وفيها شاة.",
+    "The minimum is forty sheep, due one sheep."
+   ]
+  },
+  {
+   "id": 80,
+   "c": "quran",
+   "d": 1,
+   "q": [
+    "ما أول سورة في ترتيب المصحف؟",
+    "What is the first surah in the Mushaf?"
+   ],
+   "o": [
+    [
+     "الفاتحة",
+     "Al-Fatihah"
+    ],
+    [
+     "البقرة",
+     "Al-Baqarah"
+    ],
+    [
+     "الناس",
+     "An-Nas"
+    ],
+    [
+     "العلق",
+     "Al-Alaq"
+    ]
+   ],
+   "x": [
+    "الفاتحة هي أول سورة في المصحف.",
+    "Al-Fatihah is the first surah in the Mushaf."
+   ]
+  },
+  {
+   "id": 81,
+   "c": "quran",
+   "d": 1,
+   "q": [
+    "ما آخر سورة في ترتيب المصحف؟",
+    "What is the last surah in the Mushaf?"
+   ],
+   "o": [
+    [
+     "الناس",
+     "An-Nas"
+    ],
+    [
+     "الفلق",
+     "Al-Falaq"
+    ],
+    [
+     "الإخلاص",
+     "Al-Ikhlas"
+    ],
+    [
+     "النصر",
+     "An-Nasr"
+    ]
+   ],
+   "x": [
+    "سورة الناس هي آخر سورة في المصحف.",
+    "An-Nas is the last surah in the Mushaf."
+   ]
+  },
+  {
+   "id": 82,
+   "c": "quran",
+   "d": 1,
+   "q": [
+    "كم عدد أجزاء القرآن الكريم؟",
+    "How many juz’ are in the Quran?"
+   ],
+   "o": [
+    [
+     "30",
+     "30"
+    ],
+    [
+     "20",
+     "20"
+    ],
+    [
+     "40",
+     "40"
+    ],
+    [
+     "60",
+     "60"
+    ]
+   ],
+   "x": [
+    "القرآن الكريم ثلاثون جزءًا.",
+    "The Quran has thirty juz’."
+   ]
+  },
+  {
+   "id": 83,
+   "c": "quran",
+   "d": 1,
+   "q": [
+    "في أي سورة وردت قصة سيدنا يوسف عليه السلام كاملة؟",
+    "In which surah is the story of Prophet Yusuf told in full?"
+   ],
+   "o": [
+    [
+     "يوسف",
+     "Yusuf"
+    ],
+    [
+     "هود",
+     "Hud"
+    ],
+    [
+     "مريم",
+     "Maryam"
+    ],
+    [
+     "الكهف",
+     "Al-Kahf"
+    ]
+   ],
+   "x": [
+    "قصة يوسف عليه السلام في سورة يوسف.",
+    "The story of Yusuf is in Surah Yusuf."
+   ]
+  },
+  {
+   "id": 84,
+   "c": "seerah",
+   "d": 1,
+   "q": [
+    "ما اسم أم النبي ﷺ؟",
+    "What was the name of the Prophet’s ﷺ mother?"
+   ],
+   "o": [
+    [
+     "آمنة بنت وهب",
+     "Aminah bint Wahb"
+    ],
+    [
+     "خديجة بنت خويلد",
+     "Khadijah bint Khuwaylid"
+    ],
+    [
+     "عائشة بنت أبي بكر",
+     "Aisha bint Abi Bakr"
+    ],
+    [
+     "حليمة السعدية",
+     "Halimah as-Sa‘diyyah"
+    ]
+   ],
+   "x": [
+    "أمه هي آمنة بنت وهب رضي الله عنها.",
+    "His mother was Aminah bint Wahb."
+   ]
+  },
+  {
+   "id": 85,
+   "c": "seerah",
+   "d": 1,
+   "q": [
+    "في أي مدينة وُلد النبي ﷺ؟",
+    "In which city was the Prophet ﷺ born?"
+   ],
+   "o": [
+    [
+     "مكة المكرمة",
+     "Makkah"
+    ],
+    [
+     "المدينة المنورة",
+     "Madinah"
+    ],
+    [
+     "الطائف",
+     "Taif"
+    ],
+    [
+     "القدس",
+     "Jerusalem"
+    ]
+   ],
+   "x": [
+    "وُلد النبي ﷺ في مكة المكرمة.",
+    "The Prophet ﷺ was born in Makkah."
+   ]
+  },
+  {
+   "id": 86,
+   "c": "seerah",
+   "d": 1,
+   "q": [
+    "من هي أولى زوجات النبي ﷺ؟",
+    "Who was the first wife of the Prophet ﷺ?"
+   ],
+   "o": [
+    [
+     "خديجة بنت خويلد",
+     "Khadijah bint Khuwaylid"
+    ],
+    [
+     "عائشة بنت أبي بكر",
+     "Aisha bint Abi Bakr"
+    ],
+    [
+     "حفصة بنت عمر",
+     "Hafsah bint Umar"
+    ],
+    [
+     "سودة بنت زمعة",
+     "Sawdah bint Zam‘ah"
+    ]
+   ],
+   "x": [
+    "تزوج النبي ﷺ خديجة قبل البعثة.",
+    "He married Khadijah before the first revelation."
+   ]
+  },
+  {
+   "id": 87,
+   "c": "seerah",
+   "d": 1,
+   "q": [
+    "ما الغزوة التي حُفر فيها الخندق حول المدينة؟",
+    "Which battle involved digging a trench around Madinah?"
+   ],
+   "o": [
+    [
+     "الخندق (الأحزاب)",
+     "The Trench (Al-Ahzab)"
+    ],
+    [
+     "بدر",
+     "Badr"
+    ],
+    [
+     "أحد",
+     "Uhud"
+    ],
+    [
+     "حنين",
+     "Hunayn"
+    ]
+   ],
+   "x": [
+    "حُفر الخندق في غزوة الأحزاب دفاعًا عن المدينة.",
+    "The trench was dug in the Battle of the Confederates to defend Madinah."
+   ]
+  },
+  {
+   "id": 88,
+   "c": "prophets",
+   "d": 1,
+   "q": [
+    "من النبيان اللذان رفعا قواعد الكعبة؟",
+    "Which two prophets raised the foundations of the Kaaba?"
+   ],
+   "o": [
+    [
+     "إبراهيم وإسماعيل",
+     "Ibrahim and Ismail"
+    ],
+    [
+     "نوح وهود",
+     "Nuh and Hud"
+    ],
+    [
+     "موسى وهارون",
+     "Musa and Harun"
+    ],
+    [
+     "داود وسليمان",
+     "Dawud and Sulayman"
+    ]
+   ],
+   "x": [
+    "رفع إبراهيم وإسماعيل قواعد البيت (سورة البقرة).",
+    "Ibrahim and Ismail raised the foundations (Surah Al-Baqarah)."
+   ]
+  },
+  {
+   "id": 89,
+   "c": "prophets",
+   "d": 1,
+   "q": [
+    "من النبي الذي أُلقي في اليم وهو رضيع؟",
+    "Which prophet was placed in the river as an infant?"
+   ],
+   "o": [
+    [
+     "موسى",
+     "Musa (Moses)"
+    ],
+    [
+     "يوسف",
+     "Yusuf (Joseph)"
+    ],
+    [
+     "عيسى",
+     "Isa (Jesus)"
+    ],
+    [
+     "يونس",
+     "Yunus (Jonah)"
+    ]
+   ],
+   "x": [
+    "ألقته أمه في اليم بوحي من الله (سورة القصص).",
+    "His mother placed him in the river by Allah’s inspiration (Surah Al-Qasas)."
+   ]
+  },
+  {
+   "id": 90,
+   "c": "prophets",
+   "d": 1,
+   "q": [
+    "من النبي الذي تكلّم في المهد؟",
+    "Which prophet spoke in the cradle?"
+   ],
+   "o": [
+    [
+     "عيسى",
+     "Isa (Jesus)"
+    ],
+    [
+     "يحيى",
+     "Yahya (John)"
+    ],
+    [
+     "موسى",
+     "Musa (Moses)"
+    ],
+    [
+     "يوسف",
+     "Yusuf (Joseph)"
+    ]
+   ],
+   "x": [
+    "تكلّم عيسى عليه السلام في المهد (سورة مريم).",
+    "Isa spoke in the cradle (Surah Maryam)."
+   ]
+  },
+  {
+   "id": 91,
+   "c": "prophets",
+   "d": 1,
+   "q": [
+    "من النبي الذي سُخّرت معه الجبال والطير تسبّح؟",
+    "With which prophet did the mountains and birds glorify Allah?"
+   ],
+   "o": [
+    [
+     "داود",
+     "Dawud (David)"
+    ],
+    [
+     "سليمان",
+     "Sulayman (Solomon)"
+    ],
+    [
+     "موسى",
+     "Musa (Moses)"
+    ],
+    [
+     "نوح",
+     "Nuh (Noah)"
+    ]
+   ],
+   "x": [
+    "سُخّرت الجبال والطير مع داود (سورة الأنبياء).",
+    "The mountains and birds were subjected with Dawud (Surah Al-Anbiya)."
+   ]
+  },
+  {
+   "id": 92,
+   "c": "fiqh",
+   "d": 1,
+   "q": [
+    "كم عدد ركعات صلاة الظهر؟",
+    "How many rak‘ahs is the Dhuhr prayer?"
+   ],
+   "o": [
+    [
+     "4",
+     "4"
+    ],
+    [
+     "2",
+     "2"
+    ],
+    [
+     "3",
+     "3"
+    ],
+    [
+     "5",
+     "5"
+    ]
+   ],
+   "x": [
+    "صلاة الظهر أربع ركعات.",
+    "Dhuhr is four rak‘ahs."
+   ]
+  },
+  {
+   "id": 93,
+   "c": "fiqh",
+   "d": 1,
+   "q": [
+    "بماذا تبدأ الصلاة؟",
+    "What does the prayer begin with?"
+   ],
+   "o": [
+    [
+     "تكبيرة «الله أكبر»",
+     "The takbir “Allahu Akbar”"
+    ],
+    [
+     "قراءة الفاتحة",
+     "Reciting Al-Fatihah"
+    ],
+    [
+     "الركوع",
+     "Bowing"
+    ],
+    [
+     "السجود",
+     "Prostration"
+    ]
+   ],
+   "x": [
+    "تبدأ الصلاة بتكبيرة الإحرام.",
+    "The prayer begins with the opening takbir."
+   ]
+  },
+  {
+   "id": 94,
+   "c": "fiqh",
+   "d": 1,
+   "q": [
+    "في أي شهر هجري يقع عيد الأضحى؟",
+    "In which Hijri month is Eid al-Adha?"
+   ],
+   "o": [
+    [
+     "ذو الحجة",
+     "Dhul-Hijjah"
+    ],
+    [
+     "شوال",
+     "Shawwal"
+    ],
+    [
+     "رمضان",
+     "Ramadan"
+    ],
+    [
+     "محرّم",
+     "Muharram"
+    ]
+   ],
+   "x": [
+    "يقع عيد الأضحى في العاشر من ذي الحجة.",
+    "Eid al-Adha is on the tenth of Dhul-Hijjah."
+   ]
+  },
+  {
+   "id": 95,
+   "c": "fiqh",
+   "d": 1,
+   "q": [
+    "ما الصلاة التي تحلّ محل الظهر يوم الجمعة؟",
+    "Which prayer replaces Dhuhr on Friday?"
+   ],
+   "o": [
+    [
+     "صلاة الجمعة",
+     "The Friday prayer"
+    ],
+    [
+     "صلاة العصر",
+     "The Asr prayer"
+    ],
+    [
+     "صلاة العشاء",
+     "The Isha prayer"
+    ],
+    [
+     "صلاة الفجر",
+     "The Fajr prayer"
+    ]
+   ],
+   "x": [
+    "تُصلّى الجمعة ركعتين بدل الظهر لمن أدّاها.",
+    "Friday prayer is two rak‘ahs in place of Dhuhr."
+   ]
+  },
+  {
+   "id": 96,
+   "c": "quran",
+   "d": 2,
+   "q": [
+    "ما السورة التي فيها قصة سليمان مع النملة والهدهد؟",
+    "Which surah tells of Sulayman with the ant and the hoopoe?"
+   ],
+   "o": [
+    [
+     "النمل",
+     "An-Naml"
+    ],
+    [
+     "النحل",
+     "An-Nahl"
+    ],
+    [
+     "العنكبوت",
+     "Al-Ankabut"
+    ],
+    [
+     "الفيل",
+     "Al-Fil"
+    ]
+   ],
+   "x": [
+    "قصة النملة والهدهد في سورة النمل.",
+    "The ant and hoopoe appear in Surah An-Naml."
+   ]
+  },
+  {
+   "id": 97,
+   "c": "quran",
+   "d": 2,
+   "q": [
+    "ما السورة التي ذُكر فيها الطير الأبابيل؟",
+    "Which surah mentions the flocks of birds (Ababil)?"
+   ],
+   "o": [
+    [
+     "الفيل",
+     "Al-Fil"
+    ],
+    [
+     "قريش",
+     "Quraysh"
+    ],
+    [
+     "الماعون",
+     "Al-Ma‘un"
+    ],
+    [
+     "الكوثر",
+     "Al-Kawthar"
+    ]
+   ],
+   "x": [
+    "وردت في سورة الفيل.",
+    "It appears in Surah Al-Fil."
+   ]
+  },
+  {
+   "id": 98,
+   "c": "seerah",
+   "d": 2,
+   "q": [
+    "ما اسم زوجة النبي ﷺ التي هي بنت أبي بكر الصديق؟",
+    "Which wife of the Prophet ﷺ was the daughter of Abu Bakr as-Siddiq?"
+   ],
+   "o": [
+    [
+     "عائشة",
+     "Aisha"
+    ],
+    [
+     "حفصة",
+     "Hafsah"
+    ],
+    [
+     "أم سلمة",
+     "Umm Salamah"
+    ],
+    [
+     "زينب",
+     "Zaynab"
+    ]
+   ],
+   "x": [
+    "عائشة رضي الله عنها بنت أبي بكر الصديق.",
+    "Aisha was the daughter of Abu Bakr."
+   ]
+  },
+  {
+   "id": 99,
+   "c": "seerah",
+   "d": 2,
+   "q": [
+    "في أي مدينة توفي النبي ﷺ؟",
+    "In which city did the Prophet ﷺ pass away?"
+   ],
+   "o": [
+    [
+     "المدينة المنورة",
+     "Madinah"
+    ],
+    [
+     "مكة المكرمة",
+     "Makkah"
+    ],
+    [
+     "الطائف",
+     "Taif"
+    ],
+    [
+     "القدس",
+     "Jerusalem"
+    ]
+   ],
+   "x": [
+    "توفي النبي ﷺ في المدينة المنورة ودُفن فيها.",
+    "He passed away in Madinah and was buried there."
+   ]
+  },
+  {
+   "id": 100,
+   "c": "prophets",
+   "d": 2,
+   "q": [
+    "من النبي الذي رأى في المنام أنه يذبح ابنه؟",
+    "Which prophet saw in a dream that he was sacrificing his son?"
+   ],
+   "o": [
+    [
+     "إبراهيم",
+     "Ibrahim (Abraham)"
+    ],
+    [
+     "يعقوب",
+     "Ya‘qub (Jacob)"
+    ],
+    [
+     "زكريا",
+     "Zakariyya (Zechariah)"
+    ],
+    [
+     "نوح",
+     "Nuh (Noah)"
+    ]
+   ],
+   "x": [
+    "ورد ذلك عن إبراهيم عليه السلام في سورة الصافات.",
+    "This is told of Ibrahim in Surah As-Saffat."
+   ]
+  },
+  {
+   "id": 101,
+   "c": "prophets",
+   "d": 2,
+   "q": [
+    "من النبي الذي بُشّر بالولد يحيى؟",
+    "Which prophet was given the glad tidings of a son named Yahya?"
+   ],
+   "o": [
+    [
+     "زكريا",
+     "Zakariyya (Zechariah)"
+    ],
+    [
+     "أيوب",
+     "Ayyub (Job)"
+    ],
+    [
+     "لوط",
+     "Lut (Lot)"
+    ],
+    [
+     "هود",
+     "Hud"
+    ]
+   ],
+   "x": [
+    "بُشّر زكريا عليه السلام بيحيى (سورة مريم).",
+    "Zakariyya was given glad tidings of Yahya (Surah Maryam)."
+   ]
+  },
+  {
+   "id": 102,
+   "c": "fiqh",
+   "d": 2,
+   "q": [
+    "ما الصلاة التي تُؤدّى في ليالي رمضان بعد العشاء؟",
+    "Which prayer is performed in the nights of Ramadan after Isha?"
+   ],
+   "o": [
+    [
+     "التراويح",
+     "Taraweeh"
+    ],
+    [
+     "الضحى",
+     "Duha"
+    ],
+    [
+     "الاستخارة",
+     "Istikharah"
+    ],
+    [
+     "الجنازة",
+     "The funeral prayer"
+    ]
+   ],
+   "x": [
+    "التراويح من صلوات ليالي رمضان.",
+    "Taraweeh is prayed in the nights of Ramadan."
+   ]
+  },
+  {
+   "id": 103,
+   "c": "fiqh",
+   "d": 2,
+   "q": [
+    "ما الزكاة التي تُخرج في آخر شهر رمضان؟",
+    "Which zakat is given at the end of Ramadan?"
+   ],
+   "o": [
+    [
+     "زكاة الفطر",
+     "Zakat al-Fitr"
+    ],
+    [
+     "زكاة المال",
+     "Zakat on wealth"
+    ],
+    [
+     "زكاة الزروع",
+     "Zakat on crops"
+    ],
+    [
+     "زكاة الأنعام",
+     "Zakat on livestock"
+    ]
+   ],
+   "x": [
+    "تُخرج زكاة الفطر قبل صلاة العيد.",
+    "Zakat al-Fitr is given before the Eid prayer."
+   ]
+  },
+  {
+   "id": 104,
+   "c": "quran",
+   "d": 3,
+   "q": [
+    "كم عدد السور التي تبدأ بالحروف «الم» وحدها؟",
+    "How many surahs begin with the letters “Alif Lam Mim” alone?"
+   ],
+   "o": [
+    [
+     "6",
+     "6"
+    ],
+    [
+     "5",
+     "5"
+    ],
+    [
+     "7",
+     "7"
+    ],
+    [
+     "4",
+     "4"
+    ]
+   ],
+   "x": [
+    "هي البقرة وآل عمران والعنكبوت والروم ولقمان والسجدة.",
+    "They are Al-Baqarah, Al-Imran, Al-Ankabut, Ar-Rum, Luqman and As-Sajdah."
+   ]
+  },
+  {
+   "id": 105,
+   "c": "quran",
+   "d": 3,
+   "q": [
+    "ما أول ما نزل من القرآن الكريم؟",
+    "What was the first part of the Quran to be revealed?"
+   ],
+   "o": [
+    [
+     "أول آيات سورة العلق",
+     "The first verses of Surah Al-Alaq"
+    ],
+    [
+     "بداية سورة الفاتحة",
+     "The beginning of Al-Fatihah"
+    ],
+    [
+     "أول آيات سورة المدثر",
+     "The first verses of Al-Muddaththir"
+    ],
+    [
+     "آية الكرسي",
+     "Ayat al-Kursi"
+    ]
+   ],
+   "x": [
+    "أول ما نزل «اقرأ باسم ربك الذي خلق» (صحيح البخاري).",
+    "The first revealed was “Read in the name of your Lord who created” (Sahih al-Bukhari)."
+   ]
+  },
+  {
+   "id": 106,
+   "c": "quran",
+   "d": 3,
+   "q": [
+    "ما السورة التي كان النبي ﷺ يقرؤها في فجر الجمعة مع سورة الإنسان؟",
+    "Which surah did the Prophet ﷺ recite in Friday Fajr along with Surah Al-Insan?"
+   ],
+   "o": [
+    [
+     "السجدة",
+     "As-Sajdah"
+    ],
+    [
+     "الكهف",
+     "Al-Kahf"
+    ],
+    [
+     "يس",
+     "Ya-Sin"
+    ],
+    [
+     "الملك",
+     "Al-Mulk"
+    ]
+   ],
+   "x": [
+    "كان يقرأ «الم تنزيل» السجدة و«هل أتى على الإنسان» (متفق عليه).",
+    "He recited As-Sajdah and Al-Insan (agreed upon)."
+   ]
+  },
+  {
+   "id": 107,
+   "c": "seerah",
+   "d": 3,
+   "q": [
+    "في أي سنة هجرية كانت غزوة تبوك؟",
+    "In which Hijri year was the expedition of Tabuk?"
+   ],
+   "o": [
+    [
+     "السنة التاسعة",
+     "Year 9"
+    ],
+    [
+     "السنة الثامنة",
+     "Year 8"
+    ],
+    [
+     "السنة السابعة",
+     "Year 7"
+    ],
+    [
+     "السنة العاشرة",
+     "Year 10"
+    ]
+   ],
+   "x": [
+    "كانت غزوة تبوك في السنة التاسعة للهجرة.",
+    "Tabuk took place in year 9 after Hijrah."
+   ]
+  },
+  {
+   "id": 108,
+   "c": "seerah",
+   "d": 3,
+   "q": [
+    "من الصحابي الملقّب بذي النورين؟",
+    "Which companion was known as Dhun-Nurayn?"
+   ],
+   "o": [
+    [
+     "عثمان بن عفان",
+     "Uthman ibn Affan"
+    ],
+    [
+     "علي بن أبي طالب",
+     "Ali ibn Abi Talib"
+    ],
+    [
+     "طلحة بن عبيد الله",
+     "Talhah ibn Ubaydillah"
+    ],
+    [
+     "الزبير بن العوام",
+     "Az-Zubayr ibn al-Awwam"
+    ]
+   ],
+   "x": [
+    "لُقّب بذلك لأنه تزوج ابنتي النبي ﷺ رقية ثم أم كلثوم.",
+    "He married two daughters of the Prophet ﷺ, Ruqayyah then Umm Kulthum."
+   ]
+  },
+  {
+   "id": 109,
+   "c": "seerah",
+   "d": 3,
+   "q": [
+    "كم مكث النبي ﷺ في المدينة بعد الهجرة حتى وفاته؟",
+    "How long did the Prophet ﷺ live in Madinah after the Hijrah?"
+   ],
+   "o": [
+    [
+     "عشر سنوات",
+     "Ten years"
+    ],
+    [
+     "ثلاث عشرة سنة",
+     "Thirteen years"
+    ],
+    [
+     "ثماني سنوات",
+     "Eight years"
+    ],
+    [
+     "ثلاثًا وعشرين سنة",
+     "Twenty-three years"
+    ]
+   ],
+   "x": [
+    "عاش في المدينة نحو عشر سنوات بعد الهجرة.",
+    "He lived in Madinah for about ten years after the Hijrah."
+   ]
+  },
+  {
+   "id": 110,
+   "c": "prophets",
+   "d": 3,
+   "q": [
+    "من النبي الذي سُمّي «ذا النون» في القرآن؟",
+    "Which prophet is called “Dhun-Nun” in the Quran?"
+   ],
+   "o": [
+    [
+     "يونس",
+     "Yunus (Jonah)"
+    ],
+    [
+     "أيوب",
+     "Ayyub (Job)"
+    ],
+    [
+     "إلياس",
+     "Ilyas (Elijah)"
+    ],
+    [
+     "ذو الكفل",
+     "Dhul-Kifl"
+    ]
+   ],
+   "x": [
+    "ذُكر بـ«ذي النون» في سورة الأنبياء، وهو يونس عليه السلام.",
+    "Yunus is called Dhun-Nun in Surah Al-Anbiya."
+   ]
+  },
+  {
+   "id": 111,
+   "c": "prophets",
+   "d": 3,
+   "q": [
+    "من النبي الذي طلب أن يرى ربه فقال الله له «لن تراني»؟",
+    "Which prophet asked to see his Lord and was told “You will not see Me”?"
+   ],
+   "o": [
+    [
+     "موسى",
+     "Musa (Moses)"
+    ],
+    [
+     "إبراهيم",
+     "Ibrahim (Abraham)"
+    ],
+    [
+     "نوح",
+     "Nuh (Noah)"
+    ],
+    [
+     "يوسف",
+     "Yusuf (Joseph)"
+    ]
+   ],
+   "x": [
+    "ورد ذلك في سورة الأعراف عن موسى عليه السلام.",
+    "This is told of Musa in Surah Al-A‘raf."
+   ]
+  },
+  {
+   "id": 112,
+   "c": "prophets",
+   "d": 3,
+   "q": [
+    "كم عدد الأنبياء المذكورين بأسمائهم في القرآن الكريم؟",
+    "How many prophets are mentioned by name in the Quran?"
+   ],
+   "o": [
+    [
+     "25",
+     "25"
+    ],
+    [
+     "24",
+     "24"
+    ],
+    [
+     "30",
+     "30"
+    ],
+    [
+     "20",
+     "20"
+    ]
+   ],
+   "x": [
+    "ذُكر في القرآن خمسة وعشرون نبيًا بأسمائهم.",
+    "Twenty-five prophets are named in the Quran."
+   ]
+  },
+  {
+   "id": 113,
+   "c": "fiqh",
+   "d": 3,
+   "q": [
+    "ما أقل عدد تنعقد به صلاة الجماعة؟",
+    "What is the minimum number for a congregational prayer?"
+   ],
+   "o": [
+    [
+     "اثنان",
+     "Two"
+    ],
+    [
+     "ثلاثة",
+     "Three"
+    ],
+    [
+     "أربعة",
+     "Four"
+    ],
+    [
+     "واحد",
+     "One"
+    ]
+   ],
+   "x": [
+    "تنعقد الجماعة بإمام ومأموم.",
+    "A congregation is formed by an imam and one follower."
+   ]
+  },
+  {
+   "id": 114,
+   "c": "fiqh",
+   "d": 3,
+   "q": [
+    "ما الفريضة التي تجب على المسلم مرة واحدة في العمر عند الاستطاعة؟",
+    "Which obligation is required once in a lifetime for those who are able?"
+   ],
+   "o": [
+    [
+     "الحج",
+     "Hajj"
+    ],
+    [
+     "الزكاة",
+     "Zakat"
+    ],
+    [
+     "الصيام",
+     "Fasting"
+    ],
+    [
+     "الصلاة",
+     "Prayer"
+    ]
+   ],
+   "x": [
+    "الحج فرض مرة في العمر لمن استطاع إليه سبيلًا.",
+    "Hajj is obligatory once in a lifetime for those who are able."
+   ]
+  },
+  {
+   "id": 115,
+   "c": "fiqh",
+   "d": 3,
+   "q": [
+    "كم يبلغ نصاب زكاة الذهب بالجرام تقريبًا؟",
+    "Roughly how many grams is the nisab of gold for zakat?"
+   ],
+   "o": [
+    [
+     "85",
+     "85"
+    ],
+    [
+     "50",
+     "50"
+    ],
+    [
+     "100",
+     "100"
+    ],
+    [
+     "120",
+     "120"
+    ]
+   ],
+   "x": [
+    "نصاب الذهب عشرون مثقالًا، ويعادل نحو 85 جرامًا.",
+    "The nisab of gold is twenty mithqals, about 85 grams."
+   ]
+  },
+  {
+   "id": 116,
+   "c": "quran",
+   "d": 1,
+   "q": [
+    "ما السورة التي تبدأ بقوله تعالى «قل أعوذ برب الفلق»؟",
+    "Which surah begins with “Say: I seek refuge in the Lord of the daybreak”?"
+   ],
+   "o": [
+    [
+     "الفلق",
+     "Al-Falaq"
+    ],
+    [
+     "الناس",
+     "An-Nas"
+    ],
+    [
+     "الإخلاص",
+     "Al-Ikhlas"
+    ],
+    [
+     "الكوثر",
+     "Al-Kawthar"
+    ]
+   ],
+   "x": [
+    "تبدأ سورة الفلق بهذه الآية.",
+    "Surah Al-Falaq begins with this verse."
+   ]
+  },
+  {
+   "id": 117,
+   "c": "seerah",
+   "d": 1,
+   "q": [
+    "ما اسم المسجد الذي فيه الكعبة المشرفة؟",
+    "What is the name of the mosque that contains the Kaaba?"
+   ],
+   "o": [
+    [
+     "المسجد الحرام",
+     "Al-Masjid al-Haram"
+    ],
+    [
+     "المسجد النبوي",
+     "The Prophet’s Mosque"
+    ],
+    [
+     "المسجد الأقصى",
+     "Al-Aqsa Mosque"
+    ],
+    [
+     "مسجد قباء",
+     "Quba Mosque"
+    ]
+   ],
+   "x": [
+    "الكعبة داخل المسجد الحرام في مكة المكرمة.",
+    "The Kaaba is inside Al-Masjid al-Haram in Makkah."
+   ]
+  },
+  {
+   "id": 118,
+   "c": "fiqh",
+   "d": 1,
+   "q": [
+    "ما الصلاة التي تُؤدّى عند غروب الشمس؟",
+    "Which prayer is performed at sunset?"
+   ],
+   "o": [
+    [
+     "المغرب",
+     "Maghrib"
+    ],
+    [
+     "العصر",
+     "Asr"
+    ],
+    [
+     "الظهر",
+     "Dhuhr"
+    ],
+    [
+     "العشاء",
+     "Isha"
+    ]
+   ],
+   "x": [
+    "يدخل وقت المغرب بغروب الشمس.",
+    "Maghrib begins at sunset."
+   ]
+  },
+  {
+   "id": 119,
+   "c": "prophets",
+   "d": 2,
+   "q": [
+    "من النبي الذي عُلّم منطق الطير؟",
+    "Which prophet was taught the speech of the birds?"
+   ],
+   "o": [
+    [
+     "سليمان",
+     "Sulayman (Solomon)"
+    ],
+    [
+     "داود",
+     "Dawud (David)"
+    ],
+    [
+     "يوسف",
+     "Yusuf (Joseph)"
+    ],
+    [
+     "إدريس",
+     "Idris (Enoch)"
+    ]
+   ],
+   "x": [
+    "قال سليمان «عُلّمنا منطق الطير» (سورة النمل).",
+    "Sulayman said we were taught the speech of birds (Surah An-Naml)."
+   ]
+  },
+  {
+   "id": 120,
+   "c": "prophets",
+   "d": 2,
+   "q": [
+    "من النبي الذي كان يُبرئ الأكمه ويُحيي الموتى بإذن الله؟",
+    "Which prophet healed the blind and gave life to the dead by Allah’s leave?"
+   ],
+   "o": [
+    [
+     "عيسى",
+     "Isa (Jesus)"
+    ],
+    [
+     "موسى",
+     "Musa (Moses)"
+    ],
+    [
+     "سليمان",
+     "Sulayman (Solomon)"
+    ],
+    [
+     "يونس",
+     "Yunus (Jonah)"
+    ]
+   ],
+   "x": [
+    "أيّد الله عيسى بهذه المعجزات (سورة آل عمران).",
+    "Allah supported Isa with these miracles (Surah Al-Imran)."
+   ]
+  },
+  {
+   "id": 121,
+   "c": "quran",
+   "d": 2,
+   "q": [
+    "ما السورة التي تبدأ بقوله تعالى «تبارك الذي بيده الملك»؟",
+    "Which surah begins with “Blessed is He in whose hand is dominion”?"
+   ],
+   "o": [
+    [
+     "الملك",
+     "Al-Mulk"
+    ],
+    [
+     "الرحمن",
+     "Ar-Rahman"
+    ],
+    [
+     "الواقعة",
+     "Al-Waqi‘ah"
+    ],
+    [
+     "القلم",
+     "Al-Qalam"
+    ]
+   ],
+   "x": [
+    "تبدأ سورة الملك بهذه الآية.",
+    "Surah Al-Mulk begins with this verse."
+   ]
+  },
+  {
+   "id": 122,
+   "c": "seerah",
+   "d": 2,
+   "q": [
+    "من الصحابي الذي لُقّب بالفاروق؟",
+    "Which companion was known as Al-Faruq?"
+   ],
+   "o": [
+    [
+     "عمر بن الخطاب",
+     "Umar ibn al-Khattab"
+    ],
+    [
+     "أبو بكر الصديق",
+     "Abu Bakr as-Siddiq"
+    ],
+    [
+     "عثمان بن عفان",
+     "Uthman ibn Affan"
+    ],
+    [
+     "علي بن أبي طالب",
+     "Ali ibn Abi Talib"
+    ]
+   ],
+   "x": [
+    "لُقّب عمر رضي الله عنه بالفاروق لتفريقه بين الحق والباطل.",
+    "Umar was called Al-Faruq for distinguishing truth from falsehood."
+   ]
+  },
+  {
+   "id": 123,
+   "c": "seerah",
+   "d": 2,
+   "q": [
+    "في أي غزوة خالف الرماة أمر النبي ﷺ فتغيّرت المعركة؟",
+    "In which battle did the archers disobey the Prophet’s ﷺ order, changing the course of the fight?"
+   ],
+   "o": [
+    [
+     "أحد",
+     "Uhud"
+    ],
+    [
+     "بدر",
+     "Badr"
+    ],
+    [
+     "حنين",
+     "Hunayn"
+    ],
+    [
+     "تبوك",
+     "Tabuk"
+    ]
+   ],
+   "x": [
+    "حدث ذلك في غزوة أحد (صحيح البخاري).",
+    "This happened at the Battle of Uhud (Sahih al-Bukhari)."
+   ]
+  },
+  {
+   "id": 124,
+   "c": "fiqh",
+   "d": 2,
+   "q": [
+    "أين يقف الحجاج في اليوم التاسع من ذي الحجة؟",
+    "Where do pilgrims stand on the ninth day of Dhul-Hijjah?"
+   ],
+   "o": [
+    [
+     "عرفة",
+     "Arafah"
+    ],
+    [
+     "منى",
+     "Mina"
+    ],
+    [
+     "مزدلفة",
+     "Muzdalifah"
+    ],
+    [
+     "المروة",
+     "Al-Marwah"
+    ]
+   ],
+   "x": [
+    "الوقوف بعرفة هو أعظم أركان الحج.",
+    "Standing at Arafah is the greatest rite of Hajj."
+   ]
+  },
+  {
+   "id": 125,
+   "c": "quran",
+   "d": 3,
+   "q": [
+    "في أي سورة وردت أحكام الأنفال والحديث عن غزوة بدر؟",
+    "In which surah are the rulings on spoils and the account of Badr found?"
+   ],
+   "o": [
+    [
+     "الأنفال",
+     "Al-Anfal"
+    ],
+    [
+     "التوبة",
+     "At-Tawbah"
+    ],
+    [
+     "آل عمران",
+     "Al-Imran"
+    ],
+    [
+     "الحشر",
+     "Al-Hashr"
+    ]
+   ],
+   "x": [
+    "نزلت سورة الأنفال في شأن غزوة بدر.",
+    "Surah Al-Anfal was revealed concerning the Battle of Badr."
+   ]
+  },
+  {
+   "id": 126,
+   "c": "quran",
+   "d": 3,
+   "q": [
+    "ما السورة التي تبدأ بالحروف «حم عسق»؟",
+    "Which surah begins with the letters “Ha Mim, Ayn Sin Qaf”?"
+   ],
+   "o": [
+    [
+     "الشورى",
+     "Ash-Shura"
+    ],
+    [
+     "فصلت",
+     "Fussilat"
+    ],
+    [
+     "الزخرف",
+     "Az-Zukhruf"
+    ],
+    [
+     "غافر",
+     "Ghafir"
+    ]
+   ],
+   "x": [
+    "تبدأ سورة الشورى بـ«حم عسق».",
+    "Surah Ash-Shura begins with these letters."
+   ]
+  },
+  {
+   "id": 127,
+   "c": "seerah",
+   "d": 3,
+   "q": [
+    "من القائد الذي فتح مصر في عهد عمر بن الخطاب؟",
+    "Which commander conquered Egypt in the time of Umar ibn al-Khattab?"
+   ],
+   "o": [
+    [
+     "عمرو بن العاص",
+     "Amr ibn al-As"
+    ],
+    [
+     "خالد بن الوليد",
+     "Khalid ibn al-Walid"
+    ],
+    [
+     "سعد بن أبي وقاص",
+     "Sa‘d ibn Abi Waqqas"
+    ],
+    [
+     "أبو عبيدة بن الجراح",
+     "Abu Ubaydah ibn al-Jarrah"
+    ]
+   ],
+   "x": [
+    "فتح عمرو بن العاص مصر في خلافة عمر رضي الله عنهما.",
+    "Amr ibn al-As conquered Egypt during the caliphate of Umar."
+   ]
+  },
+  {
+   "id": 128,
+   "c": "prophets",
+   "d": 3,
+   "q": [
+    "ما اسم العبد الصالح الذي التقاه موسى عليه السلام كما في الحديث الصحيح؟",
+    "What is the name of the righteous servant whom Musa met, according to the authentic hadith?"
+   ],
+   "o": [
+    [
+     "الخضر",
+     "Al-Khidr"
+    ],
+    [
+     "يوشع",
+     "Yusha‘ (Joshua)"
+    ],
+    [
+     "هارون",
+     "Harun (Aaron)"
+    ],
+    [
+     "شعيب",
+     "Shu‘ayb"
+    ]
+   ],
+   "x": [
+    "سمّاه النبي ﷺ الخضر (صحيح البخاري).",
+    "The Prophet ﷺ named him Al-Khidr (Sahih al-Bukhari)."
+   ]
+  },
+  {
+   "id": 129,
+   "c": "fiqh",
+   "d": 3,
+   "q": [
+    "كم عدد أيام التشريق؟",
+    "How many are the days of Tashreeq?"
+   ],
+   "o": [
+    [
+     "3",
+     "3"
+    ],
+    [
+     "2",
+     "2"
+    ],
+    [
+     "4",
+     "4"
+    ],
+    [
+     "5",
+     "5"
+    ]
+   ],
+   "x": [
+    "أيام التشريق ثلاثة بعد يوم النحر.",
+    "There are three days of Tashreeq after the Day of Sacrifice."
+   ]
+  }
+ ]
+}
